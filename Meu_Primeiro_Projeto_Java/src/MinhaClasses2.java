@@ -5,8 +5,9 @@ public class MinhaClasses2 {
         int ANOS_DE_VIDA = 20;
         int ANO_2025 = 2025;
         System.out
-                .print("Ola me chamo " + NM + "\n" + "Tenho " + MT + " de altura" + "\n" + "Tenho " + ANOS_DE_VIDA
-                        + " anos de idade"
+                .print("Ola me chamo " + NM
+                        + "\n" + "Tenho " + MT + " de altura"
+                        + "\n" + "Tenho " + ANOS_DE_VIDA + " anos de idade"
                         + "\n" + "Estou realizando o curso da DIO.ME de Java Básico no ano " + ANO_2025);
 
     }
