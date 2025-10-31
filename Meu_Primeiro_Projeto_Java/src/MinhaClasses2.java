@@ -10,6 +10,18 @@ public class MinhaClasses2 {
                         + "\n" + "Tenho " + ANOS_DE_VIDA + " anos de idade"
                         + "\n" + "Estou realizando o curso da DIO.ME de Java Básico no ano " + ANO_2025);
 
+        // Declarações inválidas de variáveis em Java
+        // int numero&um = 1; //Os únicos símbolos permitidos são _ e $
+        // int 1numero = 1; //Uma variável não pode começar com um número
+        // int numero um = 1; //Não pode ter espaços bno nome da variável
+        // int long = 1; //long faz parte das palagras reservadas da linguabem
+
+        // Correção das declarações inválidas de variáveis em Java
+        // int numero$um = 1;
+        // int numero_um = 1;
+        // int numero1 = 1;
+        // int numeroum = 1;
+        // int longo = 1;
     }
 
 }
